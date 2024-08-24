@@ -46,7 +46,7 @@ module.exports = {
   ANTISPAM_MSG: process.env.ANTISPAM_MSG || '_Antispam Detected &mention kicked_',
   ANTIWORDS_MSG: process.env.ANTIWORDS_MSG || '_AntiWord Detected &mention kicked_',
   ANTIWORDS: process.env.ANTIWORDS || 'word',
-  MENTION: process.env.MENTION || '',
+  MENTION: process.env.MENTION || '919544949116',
   MAX_UPLOAD: process.env.MAX_UPLOAD || 230,
   REJECT_CALL: toBool(process.env.REJECT_CALL),
   VPS: toBool(process.env.VPS),
